@@ -1,4 +1,4 @@
-|| Simple React Project ||
+<br> |||||    NETFLIX CLONE   |||||| </b>
 <br/> <br/> <br/>
 
 <b> ||    List of Components used in this project ||</b> 
