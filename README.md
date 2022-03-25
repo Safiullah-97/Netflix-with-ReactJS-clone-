@@ -10,7 +10,7 @@
 
 ||    Netflix Clone GUI ||
 <br/> <br/>
-https://user-images.githubusercontent.com/60542944/160181348-fbe3b7cd-0e5e-4229-8734-cf0da30f774e.mp4
+![gui2](https://user-images.githubusercontent.com/60542944/160181772-949aa1cd-bccb-48f4-ad63-97f3502e3b33.gif)
 
 
 
