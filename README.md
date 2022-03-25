@@ -8,7 +8,7 @@
 
 <br/> <br/> <br/>
 
-<b> ||     Netflix Clone GUI ||</b>
+### ` <b> ||     Netflix Clone GUI ||</b>`
 <br/> <br/>
 ![gui2](https://user-images.githubusercontent.com/60542944/160181772-949aa1cd-bccb-48f4-ad63-97f3502e3b33.gif)
 
