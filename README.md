@@ -1,7 +1,7 @@
-<b>                  |||||    NETFLIX CLONE WITH REACT  |||||| </b>
+### ` <b>                  |||||    NETFLIX CLONE WITH REACT  |||||| </b>`
 <br/> <br/> <br/>
 
-<b> ||    List of Components used in this project ||</b> 
+### `<b> ||    List of Components used in this project ||</b> `
 <br/> <br/>
 
 ![File List](https://user-images.githubusercontent.com/60542944/160179335-45e5d2cf-e7c7-457c-bec9-df90236be290.png)
