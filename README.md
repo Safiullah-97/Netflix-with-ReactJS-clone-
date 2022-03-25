@@ -1,4 +1,4 @@
-<b> |||||    NETFLIX CLONE   |||||| </b>
+<b>                  |||||    NETFLIX CLONE WITH REACT  |||||| </b>
 <br/> <br/> <br/>
 
 <b> ||    List of Components used in this project ||</b> 
